@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  MapasP2
-//
-//  Created by Mac1 on 06/05/21.
-//
 
 import UIKit
 
